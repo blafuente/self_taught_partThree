@@ -1,1 +1,20 @@
 Operating Systems
+
+Every computer has an operating system-- a program that is middleman between the physical components of 
+the computer and you.
+
+There are three popular operating systems for desktop and laptop computers: Windows, Unix, and Linux. 
+Windows is Microsoft's opearting system. Unix is an opearting system creating in the 1970s. Apple based 
+their opearting system on Unix. Linux is open-source operating system used by the majority of the world's servers.
+A server is a computer or computer program that performs tasks, like hosting a website. 
+Open-source means a company or individual does not own the software and you may redistribute or modify it. 
+Linux and Unix are both Unix-like operating systems, which means they are very similar. 
+
+In this section of the course of the course, you will learn about different programming tools. 
+One of the tools you will learn abuot is called Bash. Bash is only available on Unix and Linux
+operating systems: it is not available on Windows. Instructor covers Bash, even though it is not available 
+on Windows, for two reasons. The first is that technology companies tend to use either Linux or Unix because 
+they are more friendly for programmers. The second is that no matter what operating system you use, 
+at some point you will need to learn how to use Bash because almost every server in the world runs on Linux,
+and as a programmer, you will come into contact with a lot of servers. 
+
