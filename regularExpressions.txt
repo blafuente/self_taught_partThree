@@ -1,0 +1,30 @@
+Regular Expression:
+    - A sequence of characters that define a search pattern. 
+    - You can use regular expressions to help pick numbers within a file
+
+Grep Command
+    - to search a file using regular expressions
+    - accepts two parameters
+        1. a regular expression 
+        2. the filepath of the file
+
+grep Beautiful zen.txt
+will pring "Beautiful is better than ugly."
+
+grep is case-sensitve *
+you can ignore case by using "-i"
+grep -i beautfiul zen.txt
+
+can also match complex patterns
+
+grep ^If zen.txt
+only mataches a pattern at the beginning of the line
+
+grep idea.$ zen.txt
+finds matches that ends with it 
+
+You can use grep to search strings
+
+echo Two too. | grep -i t[ow]o 
+>>> Two too. 
+
